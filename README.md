@@ -31,10 +31,16 @@ I'm a student who studies software engineering at UTM.
 <div width="100%" align="center"><a href="https://github.com/chongzuwei/assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chongzuwei&repo=assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Courses and Certificate
-<a href="#" class="image fit"><img src="images/photo1705499141 (2).jpeg" alt=""width="36" height="100" /></a>
-<a href="#" class="image fit"><img src="images/photo1705499141 (1).jpeg" alt="" width="36" height="36"/></a>
-<a href="#" class="image fit"><img src="images/photo1705499141 (3).jpeg" alt=""width="36" height="36" /></a>
-<a href="#" class="image fit"><img src="images/photo1705499141.jpeg" alt=""width="36" height="36" /></a>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/photo1705499141 (2).jpeg" alt="Image 1" width="20%">
+  <img src="images/photo1705499141 (1).jpeg" alt="Image 2" width="20%">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/photo1705499141 (3).jpeg" alt="Image 1" width="20%">
+  <img src="images/photo1705499141.jpeg" alt="Image 2" width="20%">
+</div>
 
 
 
