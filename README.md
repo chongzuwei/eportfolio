@@ -29,3 +29,19 @@ I'm a student who studies software engineering at UTM.
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/chongzuwei/assignment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chongzuwei&repo=assignment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Courses and Certificate
+<a href="#" class="image fit"><img src="images/photo1705499141 (2).jpeg" alt="" /></a>
+<a href="#" class="image fit"><img src="images/photo1705499141 (1).jpeg" alt="" /></a>
+<a href="#" class="image fit"><img src="images/photo1705499141 (3).jpeg" alt="" /></a>
+<a href="#" class="image fit"><img src="images/photo1705499141.jpeg" alt="" /></a>
+
+
+
+
+
+
+
+
+
+
