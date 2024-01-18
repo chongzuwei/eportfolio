@@ -64,12 +64,31 @@ From the talk, I realized that continuous learning is very important in our care
 - [ASSIGNMENT 3 : VIDEO ON VISIT TO UTMDIGITAL AND THE ATTENDED VIRTUAL TALK](https://github.com/chongzuwei/eportfolio/blob/1b618e9878ab32945b4dc0290cd48a835c373df0/Assignment%203%20VIDEO%20ON%20VISIT%20TO%20UTMDIGITAL%20AND%20THE%20ATTENDED%20VIRTUAL%20TALK.pdf)
 
   <img src="images/Screenshot 2024-01-12 163237.png" alt="Image 2" width="30%">
+
+### Reflection:
+From the virtual talk,I know what kind of services are provided by UTM Digital, such as UTM WiFi,UTM Smart, and the MyUTM portal. They actually help many students tackle daily task and provide a convenient lifestyle for UTM community.After that,I understand how UTM Digital works and the UTM Digital staff's work environment during the visit of UTM Digital. Lastly, I really appreciate the UTM Digital staff effort and thank them for their hard work to let the students have a better experience with their service.
+
   
 - [ASSIGNMENT 4 : REPORT ON INDUSTRIAL TALKS 2A](https://github.com/chongzuwei/eportfolio/blob/1b618e9878ab32945b4dc0290cd48a835c373df0/ASSIGNMENT%204%20REPORT%20ON%20INDUSTRIAL%20TALKS%202A%20OR%202B.pdf)
 
 
+
   <img src="images/Screenshot 2024-01-12 163558.png" alt="Image 2" width="30%">
 
+### Reflection:
+From the talk, I know the importance of data analytics, which helps companies make decisions and create a more effective long-term marketing strategy that can improve customer satisfaction. Furthermore,I also realized that industrial training is important for our future. This is because it provides many opportunities that can help us enhance our technical skills and problem-solving skills.Overall
+
+- [PC Assemble]
+
+    <img src="images/photo1704978112.jpeg" alt="Image 2" width="30%">
+    
+  ### Reflection:
+From PC Assemble,It provided me with a deeper understanding of the crucial components that make up a desktop computer, including the motherboard, CPU, RAM, GPU, storage, and power supply. This knowledge is fundamental for anyone interested in computers, whether for personal use or as part of a broader interest in technology. Moreover,this also helps me know that PC assembly requires a delicate touch. Connecting components with care is essential to avoid damage. It's an empowering experience that can help us to know more about the PC.In summary, As technology continues to advance, having a foundational understanding of computer components and assembly is advantages for studnet's future.
+
+- [Design Thinking]
+
+  ### Reflection:
+  
 
 
 
