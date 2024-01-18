@@ -51,10 +51,16 @@ Here are my assignment and project:
 <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
 
 
-Reflection:
+###Reflection:
+
 During my visit, I explored many booths and gained insights into the significance of technology in improving our quality of life. Engaging with different applications and products provided me with a broader perspective on how technology can enhance efficiency and contribute to overall well-being. However, it's unfortunate that the sound quality during NALI's briefing was too loud, affecting the clarity of the interview session.  Overall,I think this activity is important for students to open their minds, and I had a whale of time at there!!!!
 
-- [ASSIGNMENT 2 : POSTER ON INDUSTRIAL TALK 1](https://github.com/chongzuwei/eportfolio/blob/c6efcf4c0febb40d3763d23736925f1195cb255d/images/Screenshot%202024-01-12%20163153.png))
+- [ASSIGNMENT 2 : POSTER ON INDUSTRIAL TALK 1](https://github.com/chongzuwei/eportfolio/blob/cd4af59cf0044cca260bcd83187efe7030e52cdc/ASSIGNMENT%202%20POSTER%20ON%20INDUSTRIAL%20TALK%201.pdf)
+
+  <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
+
+Reflection:
+
 
 
 
