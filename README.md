@@ -56,7 +56,7 @@ During my visit, I explored many booths and gained insights into the significanc
 
 - [ASSIGNMENT 2 : POSTER ON INDUSTRIAL TALK 1](https://github.com/chongzuwei/eportfolio/blob/cd4af59cf0044cca260bcd83187efe7030e52cdc/ASSIGNMENT%202%20POSTER%20ON%20INDUSTRIAL%20TALK%201.pdf)
 
-  <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
+  <img src="images/Screenshot 2024-01-12 163153.png" alt="Image 2" width="30%">
 
 ### Reflection:
 From the talk, I realized that continuous learning is very important in our career path. The commitment to acquiring new knowledge and mastering new technologies can significantly boost our competence and ensure we remain relevant to our industry by keeping up to date with trends. Beside that,I also know what their daily routine is and what challenges their team meets from the talk.Therefore,continuous learning allows individuals to enhance their skills and stay ahead in a rapidly changing landscape.
