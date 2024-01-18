@@ -90,7 +90,7 @@ From PC Assemble session,We successfully assemble and reassemble PC by follow th
  <img src="images/Screenshot 2024-01-17 195311.png" alt="Image 2" width="30%">
  
   ### Reflection:
-  From the design thinking session, we try to figure out the problems and solutions related to topic 1. We write our idea on a sticky note and do a presentation during the online class session. Feedback is given by teachers and group 8, and we finally choose the idea that was written by our leader,Reza. Overall, this project helped us to open our minds and know what kinds of problems we faced in our daily routine and how to apply our technical knowledge to solve them in the future.
+  From the design thinking session, we try to figure out the problems and solutions related to topic 1. We write our idea on a sticky note and do a presentation during the online class session. Feedback is given by teacher and group 8, and we finally choose the idea that was written by our leader,Reza. Overall, this project helped us to open our minds and know what kinds of problems we faced in our daily routine and how to apply our technical knowledge to solve them in the future.
   
   
 
