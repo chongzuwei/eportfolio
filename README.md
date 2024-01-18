@@ -52,14 +52,23 @@ Here are my assignments and projects:
 
 
 ### Reflection:
-During my visit, I explored many booths and gained insights into the significance of technology in improving our quality of life. Engaging with different applications and products provided me with a broader perspective on how technology can enhance efficiency and contribute to overall well-being. However, it's unfortunate that the sound quality during NALI's briefing was too loud, affecting the clarity of the interview session.  Overall,I think this activity is important for students to open their minds, and I had a whale of time at there!!!!
+During my visit, I explored many booths and gained insights into the significance of technology in improving our quality of life. Engaging with different applications and products provided me with a broader perspective on how technology can enhance efficiency and contribute to overall well-being. However, it's unfortunate that the sound quality during NALI's briefing was too loud, affecting the clarity of the interview session.  Overall,I think this activity is important for students to open their minds, and I had a whale of time at there!
 
 - [ASSIGNMENT 2 : POSTER ON INDUSTRIAL TALK 1](https://github.com/chongzuwei/eportfolio/blob/cd4af59cf0044cca260bcd83187efe7030e52cdc/ASSIGNMENT%202%20POSTER%20ON%20INDUSTRIAL%20TALK%201.pdf)
 
   <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
 
-###Reflection:
+### Reflection:
+From the talk, I realized that continuous learning is very important in our career path. The commitment to acquiring new knowledge and mastering new technologies can significantly boost our competence and ensure we remain relevant to our industry by keeping up to date with trends. Beside that,I also know what their daily routine is and what challenges their team meets from the talk.Therefore,continuous learning allows individuals to enhance their skills and stay ahead in a rapidly changing landscape.
 
+- [ASSIGNMENT 3 : VIDEO ON VISIT TO UTMDIGITAL AND THE ATTENDED VIRTUAL TALK](https://github.com/chongzuwei/eportfolio/blob/1b618e9878ab32945b4dc0290cd48a835c373df0/Assignment%203%20VIDEO%20ON%20VISIT%20TO%20UTMDIGITAL%20AND%20THE%20ATTENDED%20VIRTUAL%20TALK.pdf)
+
+  <img src="images/Screenshot 2024-01-12 163237.png" alt="Image 2" width="30%">
+  
+- [ASSIGNMENT 4 : REPORT ON INDUSTRIAL TALKS 2A](https://github.com/chongzuwei/eportfolio/blob/1b618e9878ab32945b4dc0290cd48a835c373df0/ASSIGNMENT%204%20REPORT%20ON%20INDUSTRIAL%20TALKS%202A%20OR%202B.pdf)
+
+
+  <img src="images/Screenshot 2024-01-12 163558.png" alt="Image 2" width="30%">
 
 
 
