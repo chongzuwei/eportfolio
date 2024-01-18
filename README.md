@@ -80,7 +80,7 @@ From the talk, I know the importance of data analytics, which helps companies ma
 
 ### PC Assemble
 
-<img src="images/photo1704978112.jpeg" alt="Image 2" width="20%">
+<img src="images/photo1704978112.jpeg" alt="Image 2" width="40%">
 ### Reflection:
 From PC Assemble session,We successfully assemble and reassemble PC by follow the instructions given by teacher and have a deeper understanding of the crucial components that make up a desktop computer, including the motherboard, CPU, RAM, GPU, storage, and power supply. This knowledge is fundamental for anyone interested in computers, whether for personal use or as part of a broader interest in technology. Moreover,this also helps me know that PC assembly requires a delicate touch. Connecting components with care is essential to avoid damage. It's an empowering experience that can help us to know more about the PC.In summary, As technology continues to advance, having a foundational understanding of computer components and assembly is advantages for studnet's future.
 
