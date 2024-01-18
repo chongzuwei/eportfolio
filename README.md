@@ -51,6 +51,10 @@ Here are my assignment and project:
 <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
 
 
+Reflection:
+During my visit, I explored many booths and gained insights into the significance of technology in improving our quality of life. Engaging with different applications and products provided me with a broader perspective on how technology can enhance efficiency and contribute to overall well-being. However, it's unfortunate that the sound quality during NALI's briefing was too loud, affecting the clarity of the interview session.  Overall,I think this activity is important for students to open their minds, and I had a whale of time at there!!!!
+
+
 
 
 
