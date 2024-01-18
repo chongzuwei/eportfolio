@@ -45,7 +45,7 @@ I'm a student who studies software engineering at UTM.
 The photoes above are my result and offer.
 
 ### Assignments
-Here are my assignment and project:
+Here are my assignments and projects:
 - [ASSIGNMENT 1 : REPORT ON VISIT TO NALI 2023](https://github.com/chongzuwei/eportfolio/blob/b23b047b94dfbe19e75eba0adee578acf391ffde/ASSIGNMENT%201%20%20REPORT%20ON%20VISIT%20TO%20NALI%202023.pdf)
 
 <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
@@ -58,7 +58,7 @@ During my visit, I explored many booths and gained insights into the significanc
 
   <img src="images/Screenshot 2024-01-12 162545.png" alt="Image 2" width="30%">
 
-Reflection:
+###Reflection:
 
 
 
